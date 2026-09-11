@@ -14,7 +14,6 @@ JavaScript · TypeScript · React · Node.js · Python · Java · C# · C · SQL
 | --- | --- | --- |
 | [C subset compiler](https://github.com/LucasGSAntunes/2026-1-compiladores) | Team compiler for a subset of C: lexer, parser, AST, semantic analysis, three-address IR, `-O1` optimizer and assembly generation, with 8 test suites and CI | C · Flex · Bison · GitHub Actions |
 | [AGIS](https://github.com/FGA0138-MDS-Ajax/2024.1-CYGNI) | Desktop HR management app with reports and staff scheduling, built by a team of 8 | Node.js · React · TypeScript · Electron · MongoDB · Docker |
-| [MedManager](https://github.com/FGA-REQ/2024.2-AGIS2) | Requirements engineering project for a medical appointments and records platform | Requirements engineering |
 | [NYC city website evaluation](https://github.com/Interacao-Humano-Computador/2024.2-Prefeitura-Municipal-de-Nova-Iorque) | Usability evaluation of the New York City government website | Human-computer interaction |
 | [TDD](https://github.com/pedroluizfo/TDD) | Income tax calculator built through red-green-refactor cycles | Java · TDD |
 
